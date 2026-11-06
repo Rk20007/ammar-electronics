@@ -1,0 +1,8 @@
+{
+  "name": "Ammar Electronics - Official Store & Appliances Showroom",
+  "description": "Authorized dealer of premium home appliances, smart 4K TVs, inverter air conditioners, refrigerators, inverters & electronics in Nuh, Haryana. GST registered: 06EZUPK4922A1ZB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
